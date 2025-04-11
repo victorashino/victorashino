@@ -6,7 +6,7 @@
 
 <br/>
 
-<table align="center" style="border: none;" width="400em">
+<table align="center" style="border: none;" width="800em">
   <tr>
     <td>
       <a href="https://github.com/victorashino">
