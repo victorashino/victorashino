@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/victorashino/fintrack-backend">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-backend&theme=merko" />
+    <img width="370em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-backend&theme=merko" />
   </a>
   <a href="https://github.com/victorashino/fintrack-android">
-    <img width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-android&theme=merko" />
+    <img width="370em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-android&theme=merko" />
   </a>
 </div>
 
