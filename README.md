@@ -6,7 +6,7 @@
 
 <br/>
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none;" width="400em">
   <tr>
     <td>
       <a href="https://github.com/victorashino">
@@ -29,10 +29,10 @@
 
 <div align="center">
   <a href="https://github.com/victorashino/fintrack-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-backend&theme=merko" />
+    <img width="390em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-backend&theme=merko" />
   </a>
   <a href="https://github.com/victorashino/fintrack-android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-android&theme=merko" />
+    <img width="390em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-android&theme=merko" />
   </a>
 </div>
 
