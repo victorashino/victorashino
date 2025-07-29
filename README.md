@@ -6,38 +6,31 @@
 
 <br/>
 
-<table align="center" style="border: none;" width="800em">
-  <tr>
-    <td>
-      <a href="https://github.com/victorashino">
-        <img width="385em" src="https://github-readme-stats.vercel.app/api?username=victorashino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-      </a>
-      <br/>
-      <a href="https://github.com/victorashino">
-        <img width="385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorashino&layout=compact&langs_count=7&theme=merko"/>
-      </a>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p align="left">
-        👾 Eu sou desenvolvedor Android | Kotlin | Java<br><br>
-        🌱 Também estou estudando Java Spring<br><br>
-        🐧 Sou entusiasta do sistema Linux
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- Flex container para painéis + texto lado a lado -->
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; flex-wrap: nowrap;">
 
-<div align="center">
-  <a href="https://github.com/victorashino/fintrack-backend">
-    <img width="376em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-backend&theme=merko" />
-  </a>
-  <a href="https://github.com/victorashino/fintrack-android">
-    <img width="376em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorashino&repo=fintrack-android&theme=merko" />
-  </a>
+
+  <!-- Texto descritivo -->
+  <div align="center"> 
+    <p>
+      👾 Eu sou desenvolvedor Android | Kotlin | Java<br><br>
+      🌱 Também estou estudando Java Spring<br><br>
+      🐧 Sou entusiasta do sistema Linux
+    </p>
+  </div>
+
+  <!-- Painéis GitHub -->
+  <div align="center"> 
+    <a href="https://github.com/victorashino">
+      <img width="385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorashino&layout=compact&langs_count=7&theme=merko"/>
+    </a>
+  </div>
+
 </div>
 
 <br/>
 
+<!-- Contatos -->
 <div align="center"> 
   <a href="mailto:victor.ashino.main@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -47,6 +40,7 @@
   </a> 
 </div>
 
+<!-- Tecnologias -->
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -56,4 +50,3 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Arch" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arch-Dark.svg">
 </div>
-
