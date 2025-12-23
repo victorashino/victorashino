@@ -11,19 +11,21 @@
 
 
   <!-- Texto descritivo -->
-  <div align="center"> 
+  <div align="left"> 
     <p>
-      👾 Eu sou desenvolvedor Android | Kotlin | Java<br><br>
-      🌱 Também estou estudando Java Spring<br><br>
-      🐧 Sou entusiasta do sistema Linux
+  Sou desenvolvedor <strong>Android</strong> e <strong>Backend</strong><br>
+  Atualmente trabalho com desenvolvimento <strong>Android nativo</strong> e <strong>backend</strong> com <strong>SpringBoot</strong>.
+  
+  ## Tecnologias
+  - Kotlin | Java
+  - Android | SpringBoot
+  - MVVM + CleanArch| Retrofit | Room | KMP
+  
+  ## Contato
+  - GitHub: https://github.com/victorashino
+  - LinkedIn: https://linkedin.com/in/victorashino
+  - Email: victor.ashino.main@gmail.com
     </p>
-  </div>
-
-  <!-- Painéis GitHub -->
-  <div align="center"> 
-    <a href="https://github.com/victorashino">
-      <img width="385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorashino&layout=compact&langs_count=7&theme=merko"/>
-    </a>
   </div>
 
 </div>
@@ -31,7 +33,7 @@
 <br/>
 
 <!-- Contatos -->
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:victor.ashino.main@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -41,7 +43,7 @@
 </div>
 
 <!-- Tecnologias -->
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
